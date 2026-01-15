@@ -7,3 +7,6 @@ This repository is made by practicing Tailwindcss. Isda nanaman is from the Fili
 | :---: | :---: | :---: | :---: |
 | HTML 5 | TAILWINDCSS | TABLERICON | NODE.JS |
 
+## Conclusion
+This is a personal project only to practice the knowledge of mine about the tailwindcss. It is my first ever attempt to develop using the said design tool. Isda nanaman is a list of fish delicacies for Paombongenos who near the water bodies.
+
