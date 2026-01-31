@@ -10,3 +10,5 @@ This repository is only made because the developer is practicing Tailwindcss. Is
 ## Conclusion
 This is a personal project only to practice the knowledge of mine about the tailwindcss. It is my first ever attempt to develop using the said design tool. Isda nanaman is a list of fish delicacies for Paombongenos who near the water bodies.
 
+## Note 
+The Developer just used api for the datas of this practice project
